@@ -25,6 +25,8 @@ This project demonstrates how to control a DC motor using a relay module and Nod
 - Arduino IDE
 - ESP8266 Board Package
 
+  [View Arduino Code](./relay.ino)
+
 ## ⚙️ Working Principle
 
 1. NodeMCU sends a control signal to the relay module.
@@ -32,6 +34,10 @@ This project demonstrates how to control a DC motor using a relay module and Nod
 3. The DC motor starts rotating.
 4. When the relay is deactivated, the motor circuit switches OFF.
 5. The motor stops rotating.
+
+# Output
+
+![Relay Output](./relayssig)
 
 ## ✨ Features
 
