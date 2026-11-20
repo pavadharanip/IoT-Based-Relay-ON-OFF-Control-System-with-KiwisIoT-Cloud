@@ -35,7 +35,7 @@ This project demonstrates how to control a DC motor using a relay module and Nod
 4. When the relay is deactivated, the motor circuit switches OFF.
 5. The motor stops rotating.
 
-![Relay Output](./relayssig)
+![Relay Output](./relayssig.png)
 
 ## ✨ Features
 
