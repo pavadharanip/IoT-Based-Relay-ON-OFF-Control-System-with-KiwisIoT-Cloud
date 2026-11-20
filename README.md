@@ -69,7 +69,7 @@ This project demonstrates how to control a DC motor using a relay module and Nod
 
 ## 👨‍💻 Developed Using
 
-**NodeMCU ESP8266 | Arduino IDE | Relay Module | DC Motor**
-# IoT Platform:*[KiwisIoT](https://kiwisiot.in)
+NodeMCU ESP8266 | Arduino IDE | Relay Module | DC Motor
+ IoT Platform:*[KiwisIoT](https://kiwisiot.in)
 
 ---
